@@ -9,7 +9,7 @@
 ### Technical skills:
 
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### My commonly used operating systems:
