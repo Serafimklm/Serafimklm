@@ -25,11 +25,4 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serafimklm&bg_color=000&border_color=30A3DC&title_color=FFFFFF&text_color=FFF)
 
 
-
-
- ### Talk to me:
-
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-serafim-a9147a168/)	[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/Seraffiim)
-
-
 ## Always learning 
