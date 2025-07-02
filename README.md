@@ -4,7 +4,7 @@
 ### Statistics about public repositories:
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serafimklm&bg_color=000&border_color=30A3DC&title_color=FFFFFF&text_color=FFF)
+![Top Langs]![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Serafimklm&theme=dracula) 
 
 
 ## Always learning 
