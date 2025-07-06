@@ -4,4 +4,4 @@
 [![Tempo de Codificação](https://github-readme-stats.vercel.app/api/wakatime?username=Serafimklm&theme=dracula)](https://wakatime.com/@Serafimklm)
 
 
-> 💡 **Always learning.** Sempre aprendendo e evoluindo como desenvolvedor
+> 💡 **Always learning.** Sempre aprendendo e evoluindo
