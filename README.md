@@ -1,6 +1,6 @@
 # 📊 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Serafimklm&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serafimklm&theme=dracula&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&hide_border=true)](https://github.com/Serafimklm)
 
 [![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Serafimklm&theme=dracula&title_color=58A6FF&bg_color=0D1117&bar_color=58A6FF)](https://wakatime.com/@Serafimklm)
 
