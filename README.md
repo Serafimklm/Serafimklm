@@ -9,7 +9,7 @@
 **Last 12 months** (08/05/2024 - 08/05/2025):
 
 ### 🖥️ Operating System
-- Linux 🐧: 100% (1 hour)
+- Linux 🐧: 100% (--hour)
 
 
 ## 📊 Breakdown
