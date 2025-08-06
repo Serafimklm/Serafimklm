@@ -7,7 +7,8 @@
 
 | Operating System | Main IDE | Top Languages | Hours |
 |------------------|----------|---------------|-------|
-| 🐧 Linux (Debian) | IntelliJ IDEA | Java | 1 |
+| 🐧 Linux (Debian) | IntelliJ IDEA + Android Studio | Java + Kotlin | 1 |
+
 
 ## 📊 Breakdown
 ### 🖥️ Operating System
