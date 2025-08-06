@@ -1,21 +1,21 @@
-### 📊 Estatistics
+# 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Serafimklm&theme=dracula)
-## ⏳ Tempo Total de Codificação
-**Últimos 12 meses** (05/08/2024 - 05/08/2025):
 
-| Sistema Operacional | Editor Principal | Linguagem Top | Total Horas |
-|---------------------|------------------|---------------|-------------|
-| 🐧 Linux (Debian)   | IntelliJ IDEA    | Java          | 1 hora      
-## 📊 Detalhamento
-### 🖥️ Sistemas Operacionais
-- Linux: 100% (1 hora)
+## ⏳ Total Coding Time Last Year
+**Last 12 months** (08/05/2024 - 08/05/2025):
 
-### ⌨️ Editores
+| Operating System | Main IDE | Top Languages | Hours |
+|------------------|----------|---------------|-------|
+| 🐧 Linux (Debian) | IntelliJ IDEA | Java | 1 |
+
+## 📊 Breakdown
+### 🖥️ Operating System
+- Linux: 100% (1 hour)
+
+### ⌨️ Editors
 - IntelliJ IDEA: 41 min (69%)
 - VS Code: 16 min (28%)
 - Android Studio: 1 min (3%)
-[![Tempo de Codificação](https://github-readme-stats.vercel.app/api/wakatime?username=Serafimklm&theme=dracula)](https://wakatime.com/@Serafimklm)
 
-
-> 💡 **Always learning.** Sempre aprendendo e evoluindo
+[![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Serafimklm&theme=dracula)](https://wakatime.com/@Serafimklm)
