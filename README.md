@@ -5,9 +5,9 @@
 ## ⏳ Total Coding Time Last Year
 **Last 12 months** (08/05/2024 - 08/05/2025):
 
-| Operating System | Main IDE | Top Languages | Hours |
-|------------------|----------|---------------|-------|
-| 🐧 Linux (Debian) | IntelliJ IDEA + Android Studio | Java + Kotlin | 1 |
+| Operating System | 
+|------------------|
+| 🐧 Linux (Debian) |
 
 
 ## 📊 Breakdown
