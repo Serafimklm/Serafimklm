@@ -4,6 +4,8 @@
 
 [![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Serafimklm&theme=dracula&title_color=58A6FF&bg_color=0D1117&bar_color=58A6FF)](https://wakatime.com/@Serafimklm)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serafimklm&layout=compact)
+
 ## ⏳ Total Coding Time Last Year
 **Last 12 months** (08/05/2024 - 08/05/2025):
 
