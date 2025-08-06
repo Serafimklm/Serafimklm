@@ -6,14 +6,10 @@
 **Last 12 months** (08/05/2024 - 08/05/2025):
 
 ### 🖥️ Operating System
-- Linux: 100% (1 hour)
-| Operating System | 
-|------------------|
-| 🐧 Linux (Debian) |
+- Linux 🐧: 100% (1 hour)
 
 
 ## 📊 Breakdown
-
 
 ### ⌨️ Editors
 - IntelliJ IDEA: 41 min (69%)
